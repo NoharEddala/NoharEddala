@@ -1,11 +1,10 @@
-# Hi — I’m Nohar 👋
+# Hi — I am Nohar 👋
 
-Electronics Engineer focused on embedded systems, power electronics, and fuel cell testing.  
-Master's thesis: Development of an electronic load for fuel cell stack characterization.  
+Electronics Engineer focused on embedded systems, power electronics, and Hardware development.    
 
 - 📚 MSc Renewable Energy & E-Mobility (Hochschule Stralsund)  
-- 🛠 Skills: C/C++, Embedded (ESP32/STM), PCB design (Altium), MATLAB, Power Electronics, BMS  
-- 🔭 Current: Building and testing systems for fuel-cell and E-mobility applications  
+- 🛠 Skills: Analog / Digital circuit design, C/C++, Embedded (ESP32/STM), PCB design (Altium), MATLAB, Power Electronics, BMS  
+- 🔭 Current: Loking for a full time job opportunity in the field of developing hardware electronics across Germany.  
 - 📫 Contact: nohar.eddala@outlook.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/nohar-chandrakanth-eddala-32b4b9180/
 
