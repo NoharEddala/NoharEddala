@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi — I’m Nohar 👋
 
-<!--
-**NoharEddala/NoharEddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics Engineer focused on embedded systems, power electronics, and fuel cell testing.  
+Master's thesis: Development of an electronic load for fuel cell stack characterization.  
 
-Here are some ideas to get you started:
+- 📚 MSc Renewable Energy & E-Mobility (Hochschule Stralsund)  
+- 🛠 Skills: C/C++, Embedded (ESP32/STM), PCB design (Altium), MATLAB, Power Electronics, BMS  
+- 🔭 Current: Building and testing systems for fuel-cell and E-mobility applications  
+- 📫 Contact: nohar.eddala@outlook.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nohar-chandrakanth-eddala-32b4b9180/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **Electronic Load for Fuel Cell Testing** — custom load & firmware for 160 A stack evaluation  
+- **Motor Controller Design** — compact controller for urban concept vehicle  
+- **IoT Smart Grid Monitoring** — real-time fault detection and transformer health tracking
+
+*(See my repositories below for schematics, firmware, and documentation.)*
